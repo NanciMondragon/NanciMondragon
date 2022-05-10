@@ -1,13 +1,6 @@
 ### Hi Dev! 👋
 
-const nanci = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node],
-  challenge: "I'm learning JS Vanilla, HTML and CCS, the React framework at the Laboratoria Bootcamp"
-}
-
-**NanciMondragon/NanciMondragon** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**NanciMondragon/NanciMondragon** is a ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
