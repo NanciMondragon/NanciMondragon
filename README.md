@@ -26,4 +26,6 @@ Who I am?
 <a href="https://github.com/NanciMondragon"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p><br>
 
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+
 ⭐️ From [CallmeNan](https://github.com/NanciMondragon)
