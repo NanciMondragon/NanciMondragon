@@ -15,7 +15,6 @@ Who I am?
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
 </p><br>
 
 <p align="center">					    
