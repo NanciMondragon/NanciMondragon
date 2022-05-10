@@ -14,6 +14,7 @@ Who I am?
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <p align="justify">
+<a href="https://github.com/NanciMondragon"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
 <a href="https://github.com/NanciMondragon"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>			    
 <a href="https://github.com/NanciMondragon"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/NanciMondragon">
