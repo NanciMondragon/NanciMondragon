@@ -10,4 +10,4 @@ Who I am?
 - 😄 Pronouns: Nan
 - ⚡ Fun fact: My daughter's company
 
-[![Nan GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ Me encanta conectarme con diferentes personas, así que si quieres saludarte, ¡estaré encantado de conocerte más! :)
