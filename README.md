@@ -7,6 +7,7 @@ Who I am?
 - 👯 I’m looking to collaborate on : In a job where you can continue learning and strengthen this world of Web Development
 - 💬 Ask me about : I know that I can adapt to any circumstance and always give my best in any project, at the same time that I strive to work as a team, being able to solve problems and always with the desire to improve.
 - 📫 How to reach me: mondragoncruznanci@gmail.com
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/nanci-mondragon-cruz/)
 - 😄 Pronouns: Nan
 - ⚡ Fun fact: My daughter's company
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
