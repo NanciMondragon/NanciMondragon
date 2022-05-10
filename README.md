@@ -9,5 +9,21 @@ Who I am?
 - 📫 How to reach me: mondragoncruznanci@gmail.com
 - 😄 Pronouns: Nan
 - ⚡ Fun fact: My daughter's company
-- 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+      <tr valign="top">
+        <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
