@@ -1,6 +1,4 @@
-### Hi Dev! 👋
-
-**NanciMondragon/NanciMondragon** is a ✨ _special_ ✨ 
+### Hi Dev! I'am Nan 👋✨ (❁´◡`❁)😉
 
 Who I am?
 
