@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Dev! 👋
 
 const nanci = {
   pronouns: "she" | "her",
@@ -7,7 +7,6 @@ const nanci = {
   challenge: "I'm learning JS Vanilla, HTML and CCS, the React framework at the Laboratoria Bootcamp"
 }
 
-<!--
 **NanciMondragon/NanciMondragon** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mondragoncruznanci@gmail.com
 - 😄 Pronouns: Nan
 - ⚡ Fun fact: My daughter's company
--->
