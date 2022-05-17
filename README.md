@@ -4,12 +4,12 @@
 
 Who I am?
 
-- 🔭 I’m currently studing on: Laboratoria
-- 🌱 I’m currently learning : Html, CSS, JS, Framework React
-- 👯 I’m looking to collaborate on : In a job where you can continue learning and strengthen this world of Web Development
+- 🔭 I’m currently studing on: studying at Laboratoria
+- 🌱 I’m currently learning : Html, CSS, JS, React, Firebase, Jest
+- 👯 I’m looking to collaborate on : a project/ job where I can continue learning and strengthen my skills in web development
 - 💬 Ask me about : I know that I can adapt to any circumstance and always give my best in any project, at the same time that I strive to work as a team, being able to solve problems and always with the desire to improve.
 - 📫 How to reach me: mondragoncruznanci@gmail.com
-- 😄 Pronouns: Nan
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: My daughter's company
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
