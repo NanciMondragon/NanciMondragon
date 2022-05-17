@@ -4,8 +4,6 @@ A passionate frontend developer from Mexico
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/nanci-mondragon-cruz/)
 
-[![Email](https://clientes.rcymedia.eu/media/Gmail/d74e6036cb5b6e80d87b0a3fc77176c0.png)](mondragoncruznanci@gmail.com)
-
 
 - 👯 I’m looking to collaborate on : a project/ job where I can continue learning and strengthen my skills in web development
 - 💬 Ask me about : I know that I can adapt to any circumstance and always give my best in any project, at the same time that I strive to work as a team, being able to solve problems and always with the desire to improve.
